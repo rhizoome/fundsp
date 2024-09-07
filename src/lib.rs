@@ -583,6 +583,7 @@ pub mod dynamics;
 pub mod envelope;
 pub mod feedback;
 pub mod fft;
+pub mod fftconv;
 pub mod filter;
 pub mod fir;
 pub mod follow;
